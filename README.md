@@ -15,6 +15,11 @@ Build the application and try to make it run on Red Hat JBoss EAP 7.
 Take care: it is not a piece of cake.
 
 
+$ git clone https://github.com/Maarc/brownie.git
+$ cd brownie
+$ mvn clean eclipse:clean eclipse:eclipse install
+
+
 License
 -------
 
